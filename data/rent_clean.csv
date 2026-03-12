@@ -1,0 +1,8 @@
+Rent Vs Buy data summary
+city	rent_per_sqft	buy_per_sqft	breakeven_months	breakeven_years	verdict
+Bangalore	18.9284318	11396.26551	602.0712985	50.2	ðŸ”´ Buy Expensive
+Chennai	18.26883823	8132.200627	445.140546	37.1	ðŸ”´ Buy Expensive
+Hyderabad	17.00677743	8215.833333	483.0917183	40.3	ðŸ”´ Buy Expensive
+Kolkata	17.44521226	9089.525862	521.0326894	43.4	ðŸ”´ Buy Expensive
+Mumbai	41.2336166	20874.8337	506.2576466	42.2	ðŸ”´ Buy Expensive
+Pune	19.2378728	9157.84413	476.0320555	39.7	ðŸ”´ Buy Expensive
