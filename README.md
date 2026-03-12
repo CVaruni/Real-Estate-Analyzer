@@ -8,7 +8,14 @@ Real Estate Rent vs Buy Analyzer answers one of the most important financial que
 Using real listing data from Indian metros, this project performs a city-level breakeven analysis, price-per-sqft comparisons, and affordability scoring to help users make informed decisions.
 
 II. Key Findings
-CityBreakeven (Years)VerdictBangalore50.2🔴 Buy ExpensiveKolkata43.4🔴 Buy ExpensiveMumbai42.2🔴 Buy ExpensiveHyderabad40.3🔴 Buy ExpensivePune39.7🔴 Buy ExpensiveChennai37.1🔴 Buy Expensive
+
+City                  Breakeven (Years)                        Verdict
+Bangalore                 50.2                            🔴 Buy Expensive
+Kolkata                   43.4                            🔴 Buy Expensive
+Mumbai                    42.2                            🔴 Buy Expensive
+Hyderabad                 40.3                            🔴 Buy Expensive
+Pune                      39.7                            🔴 Buy Expensive
+Chennai                   37.1                            🔴 Buy Expensive
 
 III. Project Structure
 Real-Estate-Analyzer/
